@@ -1,0 +1,76 @@
+body{
+	margin: 0;
+}
+img{
+	max-width: 100%;
+}
+.banner{
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+}
+.bg01{
+	background-image: url(../images/project1.jpg);
+}
+.bg02{
+	background-image: url(../images/project4.jpg);
+}
+.bg03{
+	background-image: url(../images/project3.jpg);
+}
+
+h1{body{
+	margin: 0;
+}
+img{
+	max-width: 100%;
+}
+.banner{
+	text-align: center;
+	padding: 130px 15%;
+	background-attachment: fixed;
+}
+.bg01{
+	background-image: url(../images/project1.jpg);
+}
+.bg02{
+	background-image: url(../images/project4.jpg);
+}
+.bg03{
+	background-image: url(../images/project3.jpg);
+}
+
+h1{
+	margin: 0;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	text-shadow: 5px 5px 20px #2d2d2dbf;
+}
+p{
+	font-size: 20px;
+	color: white;
+	line-height: 1.6;
+}
+.content-box{
+	
+	background: #000000a6;
+	padding: 50px 15%;
+}
+	margin: 0;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	text-shadow: 5px 5px 20px #2d2d2dbf;
+}
+p{
+	font-size: 20px;
+	color: white;
+	line-height: 1.6;
+}
+.content-box{
+	
+background: #00000080;
+	
+padding: 50px 15%;
+}
